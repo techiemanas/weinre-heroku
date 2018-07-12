@@ -12,7 +12,7 @@ with
 Here are the basic instructions:
 
 <pre>
-<b>$ git clone git://github.com/pmuellr/weinre-heroku.git</b>
+<b>$ git clone git://github.com/techiemanas/weinre-heroku.git</b>
 Cloning into 'weinre-heroku'...
 remote: Counting objects: 11, done.
 remote: Compressing objects: 100% (10/10), done.
